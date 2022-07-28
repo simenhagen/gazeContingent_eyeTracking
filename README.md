@@ -6,7 +6,7 @@ This is a Matlab experiment implementing gaze-contingent eyetracking with EyeLin
 
 
 ## create common license
-The usage of any material should follow the terms of the create common license (CC-BY-NC-4.0), as specified here:
+The usage of any material should follow the create common license terms (CC-BY-NC-4.0), as specified here:
 https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Reference
