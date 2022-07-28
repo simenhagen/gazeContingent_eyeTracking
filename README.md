@@ -4,9 +4,10 @@ Autor: Simen Hagen
 ## Overview
 This is a Matlab experiment implementing gaze-contingent eyetracking with EyeLink.
 
-The experiment was used in this study:
 
-If you use stimuli or code from this experiment, please cite the paper above. 
+## create common license
+The usage of any material should follow the terms of the create common license (CC-BY-NC-4.0), as specified here:
+https://creativecommons.org/licenses/by-nc/4.0/
 
-
-## Specifics
+## Reference
+[insert]
