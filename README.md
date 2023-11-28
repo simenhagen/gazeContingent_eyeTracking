@@ -9,7 +9,7 @@ Hagen, S., Vuong, Q. C., Jung, L., Chin, M. D., Scott, L. S., & Tanaka, J. W. (2
 
 In academic settings, please reference this article when using this material. 
 
-## create common license
+## Create common license
 The usage of any material should follow the create common license terms (CC-BY-NC-4.0), as specified here:
 https://creativecommons.org/licenses/by-nc/4.0/
 
